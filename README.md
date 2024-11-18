@@ -22,7 +22,7 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PradipKhamkar/grocery-shop.git
+   git clone https://github.com/Nazma-N/GroceryApp-using-MERN-stack.git
    ```
 
 2. Change into the project directory:
@@ -88,4 +88,4 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 - 💌 **Nodemailer**: A library for sending email.
 - ☁️ **Cloudinary**: A cloud-based image and video management service.
 
-Happy coding! 👩‍💻👨‍💻
+
